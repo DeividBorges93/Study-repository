@@ -43,53 +43,52 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-1: [JavaScript - DOM e seletores_](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.1%20-%20JavaScript%20-%20DOM%20e%20seletores)
 - [x] 5-2: [JavaScript - Trabalhando com elementos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.2%20-%20JavaScript%20-%20Trabalhando%20com%20elementos)
 - [x] 5-3: [JavaScript - Eventos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-5/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B5%20-%20JavaScript:%20DOM%2C%20Eventos%20e%20Web%20Storage/5.3%20-%20Javascript%20-%20Eventos)
-- [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _Projeto - Meme Generator_
+- [x] 5-4: JavaScript - Web Storage
+- [ ] 5-5: Projeto - Meme Generator
 - [x] 5-6: [Projeto - Arte com Pixels](https://github.com/tryber/sd-015-b-project-pixels-art/tree/deivid-borges-project-pixels-art)
 - [x] 5-7: [Projeto - Lista de tarefas](https://github.com/tryber/sd-015-b-project-todo-list/tree/deivid-borges-todo-list-project)
-- [ ] 5-7: _Projeto - Adivinhe a Cor()_
-- [ ] 5-7: _Projeto - Carta Misteriosa_
 
-##### Bloco 6: HTML & CSS avanÃ§ado
+
+##### Bloco 6: HTML & CSS avançado
 
 - [x] 6-1: [HTML & CSS - Forms](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.1%20-%20HTML%20e%20CSS:%20Forms)
 - [x] 6-2: [Bibliotecas JavaScript e Frameworks CSS](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.2%20-%20Bibliotecas%20JavaScript%20e%20Framewaorks%20CSS)
 - [x] 6-3: [CSS Flexbox - Part 1](https://github.com/tryber/exercise-tech-gallery/pull/205)
 - [x] 6-4: [CSS Flexbox - Part 2](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.4%20-%20CSS%20Flexbox%20-%20Parte%20II)
 - [x] 6-5: [CSS Responsivo - Mobile First](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-6/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B6%20-%20HTML%20e%20CSS:%20Forms%2C%20Flexbox%20e%20Responsivo/6.5%20-%20CSS%20Repesponsivo%20-%20Mobile%20first)
-- [ ] 6-6: _Projeto - PÃ¡gina inicial do Facebook_
+- [x] 6-6: Projeto - Página inicial do Facebook
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _Testes unitários em JavaScript_
-- [ ] 7-4: _Projeto - JavaScript Testes UnitÃ¡rios_
+- [x] 7-1: [JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.1%20-%20JavaScript%20ES6%20-%20let%2C%20const%2C%20arrow%20functions%20e%20template%20literals)
+- [x] 7-2: [JavaScript ES6 - Objects](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.2%20-%20JavaScript%20ES6%20-%20Object)
+- [x] 7-3: [Testes unitários em JavaScript](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.3%20-%20JavaScript%20ES6%20-%20Testes%20unit%C3%A1rios%20em%20JavaScript)
+- [x] 7-4: Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _Projeto - Zoo functions_
+- [X] 8-1: [JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.1%20-%20JavaScript%20ES6%20-%20Introdu%C3%A7%C3%A3o%20a%20Higher%20Order%20Functions)
+- [X] 8-2: [JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.3%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20map%20e%20filter)
+- [X] 8-3: [JavaScript ES6 - Higher Order Functions - reduce](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.4%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20reduce)
+- [X] 8-4: [JavaScript ES6 - spread operator, rest parameter, destructuring e mais](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.5%20-%20JavaScript%20ES6%20-%20spread%20operator%2C%20par%C3%A2metro%20rest%2C%20destructuring%20e%20mais)
+- [X] 8-5: Projeto - Zoo functions
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _Projeto - Carrinho de Compras_
+- [X] 9-1: [JavaScript Assíncrono e Callbacks](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-9/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B9%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Promises/9.1%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)
+- [X] 9-2: [JavaScript Promises](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-9/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B9%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Promises/9.2%20-%20JavaScript%20Promises)
+- [X] 9-3: Projeto - Carrinho de Compras
 
 ##### Bloco 10: Jest
 
-- [ ] 10-1: _Primeiros passos no Jest_
-- [ ] 10-2: _Jest - Testes Assíncronos_
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _Projeto - Jest Assíncrono e Mocking_
+- [x] 10-1: [Primeiros passos no Jest](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.1%20-%20%20Primeiros%20passos%20no%20Jest/exercicesParteI)
+- [x] 10-2: [Jest - Testes Assíncronos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.2%20-%20Jest%20-%20Testes%20Ass%C3%ADncronos/exercises)
+- [x] 10-3: [Jest - Simulando comportamentos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.3%20-%20Jest%20-%20Simulando%20comportamentos/exercises)
+- [x] 10-4: Projeto - Jest Assíncrono e Mocking
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: IntroduÃ§Ã£o - React
+##### Bloco 11: Introdução - React
 
 - [ ] 11-1: _'Hello, world!' no React!_
 - [ ] 11-2: _Componentes React_
@@ -119,7 +118,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 15-2: _Testando React com a React Testing Library - Parte 2_
 - [ ] 15-3: _Projeto - Testes em React_
 
-##### Bloco 16: IntroduÃ§Ã£o ao Redux
+##### Bloco 16: Introdução ao Redux
 
 - [ ] 16-1: _Introdução ao Redux_
 - [ ] 16-2: _React com Redux - Parte 1_
@@ -211,7 +210,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
 - [ ] 29-3: _Projeto - Cookmaster V2_
 
-##### Bloco 30: IntroduÃ§Ã£o - Deploy
+##### Bloco 30: Introdução - Deploy
 
 - [ ] 30-1: _Infraestrutura - Deploy com Heroku_
 - [ ] 30-2: _Deploy - Gerenciadores de Processos_
@@ -226,7 +225,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 32-1: _Arquitetura - Princípios SOLID_
 - [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
 - [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas prÃ¡ticas na escrita de testes_
+- [ ] 32-4: _Boas práticas na escrita de testes_
 - [ ] 32-3: _Projeto - API de Blogs_
 
 ##### Bloco 33: Sockets
@@ -245,7 +244,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] 35-1: _Arquitetura de Computadores_
 - [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e seguranÃ§a_
+- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
 - [ ] 35-4: _Projeto - Explorando os protocolos_
 
 ##### Bloco 36: Python
