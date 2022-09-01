@@ -86,7 +86,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-3: [Jest - Simulando comportamentos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.3%20-%20Jest%20-%20Simulando%20comportamentos/exercises)
 - [x] 10-4: Projeto - Jest Assíncrono e Mocking
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 11: Introdução - React
 
