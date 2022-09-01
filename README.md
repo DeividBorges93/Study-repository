@@ -153,10 +153,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 20: Introdução à SQL
 
-- [X] 20-1: Introdução - Bancos de dados relacionais - Banco de dados SQL
-- [X] 20-2: Encontrando dados em um banco de dados
-- [X] 20-3: Filtrando dados de forma específica
-- [X] 20-4: Manipulando tabelas
+- [X] 20-1: [Introdução - Bancos de dados relacionais - Banco de dados SQL](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.1%20-%20Banco%20de%20dados%20SQL)
+- [X] 20-2: [Encontrando dados em um banco de dados](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.2%20-%20Encontrando%20dados%20em%20um%20bnco%20de%20dados)
+- [X] 20-3: [Filtrando dados de forma específica](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.3%20-%20Filtrando%20dados%20de%20forma%20espec%C3%ADfica)
+- [X] 20-4: [Manipulando tabelas](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.4%20-%20Manipulando%20tabelas)
 - [X] 20-5: Projeto - All For One
 
 ##### Bloco 21: Funções SQL, JOINs e normalização
