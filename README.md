@@ -63,7 +63,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 7-1: [JavaScript ES6 - let, const, arrow functions e template literals](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.1%20-%20JavaScript%20ES6%20-%20let%2C%20const%2C%20arrow%20functions%20e%20template%20literals)
 - [x] 7-2: [JavaScript ES6 - Objects](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.2%20-%20JavaScript%20ES6%20-%20Object)
 - [x] 7-3: [Testes unitários em JavaScript](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-7/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B7%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20ES6%20e%20Testes%20Unit%C3%A1rios/7.3%20-%20JavaScript%20ES6%20-%20Testes%20unit%C3%A1rios%20em%20JavaScript)
-- [x] 7-4: Projeto - JavaScript Testes Unitários
+- [x] 7-4: Projeto - [JavaScript Testes Unitários](https://github.com/tryber/sd-015-b-project-js-unit-tests/pull/118)
 
 ##### Bloco 8: JavaScript ES6
 
@@ -71,20 +71,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 8-2: [JavaScript ES6 - Higher Order Functions - map e filter](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.3%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20map%20e%20filter)
 - [X] 8-3: [JavaScript ES6 - Higher Order Functions - reduce](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.4%20-%20JavaScript%20ES6%20-%20Higher%20Order%20Functions%20-%20reduce)
 - [X] 8-4: [JavaScript ES6 - spread operator, rest parameter, destructuring e mais](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-8/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B8%20-%20Higher%20Order%20Functions%20do%20JavaScript%20ES6/8.5%20-%20JavaScript%20ES6%20-%20spread%20operator%2C%20par%C3%A2metro%20rest%2C%20destructuring%20e%20mais)
-- [X] 8-5: Projeto - Zoo functions
+- [X] 8-5: Projeto - [Zoo functions](https://github.com/tryber/sd-015-b-project-zoo-functions/pull/79)
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
 - [X] 9-1: [JavaScript Assíncrono e Callbacks](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-9/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B9%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Promises/9.1%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Callbacks)
 - [X] 9-2: [JavaScript Promises](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-9/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B9%20-%20JavaScript%20Ass%C3%ADncrono%20e%20Promises/9.2%20-%20JavaScript%20Promises)
-- [X] 9-3: Projeto - Carrinho de Compras
+- [X] 9-3: Projeto - [Carrinho de Compras](https://github.com/tryber/sd-015-b-project-shopping-cart/pull/91)
 
 ##### Bloco 10: Jest
 
 - [x] 10-1: [Primeiros passos no Jest](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.1%20-%20%20Primeiros%20passos%20no%20Jest/exercicesParteI)
 - [x] 10-2: [Jest - Testes Assíncronos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.2%20-%20Jest%20-%20Testes%20Ass%C3%ADncronos/exercises)
 - [x] 10-3: [Jest - Simulando comportamentos](https://github.com/DeividBorges93/first-repository/tree/exercicios-bloco-10/Trybe_exercicios/M1%20-%20Fundamentos%20do%20desenvolvimento%20web/B10%20-%20Testes%20automatizados%20com%20Jest/10.3%20-%20Jest%20-%20Simulando%20comportamentos/exercises)
-- [x] 10-4: Projeto - Jest Assíncrono e Mocking
+- [x] 10-4: Projeto - [Jest Assíncrono e Mocking](https://github.com/tryber/sd-015-b-project-jest/pull/38)
 
 ## Desenvolvimento Front-end :white_check_mark:
 
@@ -92,7 +92,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 11-1: _'Hello, world!' no React!_
 - [X] 11-2: _Componentes React_
-- [X] 11-3: _Projeto - Movie Cards Library_
+- [X] 11-3: [Projeto - Movie Cards Library](https://github.com/tryber/sd-015-b-project-movie-cards-library/pull/28)
 
 ##### Bloco 12: React
 
@@ -116,7 +116,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 15-1: _Testando React com a React Testing Library_
 - [X] 15-2: _Testando React com a React Testing Library - Parte 2_
-- [X] 15-3: _Projeto - Testes em React_
+- [X] 15-3: [Projeto - Testes em React](https://github.com/tryber/sd-015-b-project-react-testing-library/pull/43)
 
 ##### Bloco 16: Introdução ao Redux
 
