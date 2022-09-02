@@ -164,7 +164,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 21-1: [Funções mais usadas no SQL](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-21/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B21%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o/21.1%20-%20Fun%C3%A7%C3%B5es%20mais%20usadas%20no%20SQL)
 - [X] 21-2: [Descomplicando JOINs](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-21/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B21%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o/21.2%20-%20Descomplicando%20JOINs)
 - [X] 21-3: [Transformando ideias em um modelo de banco de dados](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-21/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B21%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o/21.3%20-%20Transformando%20ideias%20em%20um%20modelo%20de%20banco%20de%20dados)
-- [X] 21-4: Projeto - One For All
+- [X] 21-4: [Projeto - One For All](git@github.com:DeividBorges93/project-one-for-all.git)
 
 ##### Bloco 22: Introdução ao desenvolvimento web com Node.js
 
