@@ -157,7 +157,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 20-2: [Encontrando dados em um banco de dados](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.2%20-%20Encontrando%20dados%20em%20um%20bnco%20de%20dados)
 - [X] 20-3: [Filtrando dados de forma específica](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.3%20-%20Filtrando%20dados%20de%20forma%20espec%C3%ADfica)
 - [X] 20-4: [Manipulando tabelas](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-20/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B20%20-%20Introdu%C3%A7%C3%A3o%20a%20SQL/20.4%20-%20Manipulando%20tabelas)
-- [X] 20-5: Projeto - All For One
+- [X] 20-5: [Projeto - All For One](https://github.com/DeividBorges93/project-all-for-one)
 
 ##### [Bloco 21: Funções SQL, JOINs e normalização](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-21/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B21%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o)
 
