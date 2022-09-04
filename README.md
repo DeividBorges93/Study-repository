@@ -166,11 +166,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 21-3: [Transformando ideias em um modelo de banco de dados](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-21/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B21%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o/21.3%20-%20Transformando%20ideias%20em%20um%20modelo%20de%20banco%20de%20dados)
 - [X] 21-4: [Projeto - One For All](https://github.com/DeividBorges93/project-one-for-all)
 
-##### Bloco 22: Introdução ao desenvolvimento web com Node.js
+##### [Bloco 22: Introdução ao desenvolvimento web com Node.js](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-22/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B22%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20web%20com%20Node.js/22.1%20-%20Intro%20Node%20-%20Node.js%20-%20Runtime%20Ass%C3%ADncrono)
 
-- [X] 22-1: Intro Node - Node.js: Runtime Assíncrono
-- [X] 22-2: Node.js: API REST com Express
-- [X] 22-3: Node.js: Testes de Integração
+- [X] [22-1: Intro Node - Node.js: Runtime Assíncrono](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-22/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B22%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20web%20com%20Node.js/22.1%20-%20Intro%20Node%20-%20Node.js%20-%20Runtime%20Ass%C3%ADncrono)
+- [X] [22-2: Node.js: API REST com Express](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-22/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B22%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20web%20com%20Node.js/22.2%20-%20Node.js%20-%20%20API%20REST%20com%20Express)
+- [X] [22-3: Node.js: Testes de Integração](https://github.com/DeividBorges93/Study-repository/tree/exercicios-bloco-22/Trybe_exercicios/M3%20-%20Desenvolvimento%20Back-end/B22%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20web%20com%20Node.js/22.3%20-%20Node.js%20-%20Testes%20de%20Integra%C3%A7%C3%A3o)
 - [X] 22-4: Express: Middlewares
 - [X] 22-5: Node.js: Express e Mysql
 - [X] 22-6: Projeto - Talker Manager
